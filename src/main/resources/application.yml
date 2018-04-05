@@ -1,0 +1,5 @@
+graphiql:
+    mapping: /graphiql
+    endpoint: http://localhost:3000/graphql
+    enabled: true
+    pageTitle: GraphiQL
